@@ -1,0 +1,16 @@
+<1> git --version -->
+--> To check the version of git 
+--> To check if Git is properly installed
+
+<2> git config --global user.name "user_name" -->
+--> To set user name (this info is important for version control systems)
+
+<3> git config --global user.email "user_email_id" -->
+--> To set user email id (this info is important for version control systems)
+
+<4> git init -->
+--> To initialize empty git repository in directory (folder)
+
+<5> git status -->
+--> To check the status of repository
+

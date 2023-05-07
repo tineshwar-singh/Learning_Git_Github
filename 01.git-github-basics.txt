@@ -1,0 +1,41 @@
+What is Git?
+- Git is a popular version control system.
+
+It is used for :-
+- Tracking code changes
+- Tracking who made changes
+- Coding collaboration
+
+What does Git do?
+- Manage projects with Repositories
+- Clone a project to work on a local copy
+- Control and track changes with Staging and Committing
+- Branch and Merge to allow for work on different parts and versions of a project
+- Pull the latest version of the project to a local copy
+- Push local updates to the main project
+
+What is GitHub?
+- Git is not the same as GitHub.
+- GitHub makes tools that use Git.
+- GitHub is the largest host of source code in the world.
+
+Git Install?
+- You can download Git for free from the following website: https://git-scm.com/downloads
+
+Using Git with Command Line :-
+- To start using Git, we are first going to open up our Command shell (Windows).
+- For Windows, you can use Git bash, which comes included in Git for Windows. 
+- For Mac and Linux you can use the built-in terminal.
+
+Configure Git :-
+- This is important for version control systems, as each Git commit uses this information
+- When git is installed locally for the first time, we need to setup username and emailid by below commands
+--> git config --global user.name "user_name"
+--> git config --global user.email "user_email_id"
+
+Initialize Git :-
+- Once you have navigated to the correct folder, you can initialize Git on that folder by below Command:
+--> git init 
+
+Statging area :-
+- 
