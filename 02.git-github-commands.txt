@@ -14,3 +14,6 @@
 <5> git status -->
 --> To check the status of repository
 
+<6> git add file_name / git add . -->
+--> To add all files in the current directory to the Staging Environment
+
