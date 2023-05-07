@@ -34,14 +34,23 @@ Configure Git :-
 --> git config --global user.email "user_email_id"
 
 Initialize Git :-
-- Once you have navigated to the correct folder, you can initialize Git on that folder by below Command
+- Once you have navigated to the correct folder, you can initialize Git on that folder by below command
 --> git init 
 
 Git Staging Environment :-
-- 
-Files in your Git repository folder can be in one of 2 states:
-
+- Files in your Git repository folder can be in one of 2 states:
 --> Tracked - files that Git knows about and are added to the repository
 --> Untracked - files that are in your working directory, but not added to the repository
---> When you first add files to an empty repository, they are all untracked.
---> To get Git to track them, you need to stage them, or add them to the staging environment.
+- When you first add files to an empty repository, they are all untracked.
+- To get Git to track them, you need to stage them, or add them to the staging environment.
+- To add files in the staging area, you can use "git add file_name" or "git add ." commands
+
+Git Commit :-
+- Since we have finished our work, we are ready move from stage to commit for our repo.
+- To create a snapshot of the staged changes along a timeline of a Git projects history.
+
+Git Branch :-
+- Branches allow you to work on different parts of a project without impacting the main branch
+- When the work is complete, a branch can be merged with the main project
+- You can even switch between branches and work on different projects without them interfering with each other
+

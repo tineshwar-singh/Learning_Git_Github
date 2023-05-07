@@ -1,19 +1,47 @@
-<1> git --version -->
---> To check the version of git 
---> To check if Git is properly installed
+<01> git --version -->
+---> To check the version of git 
+---> To check if Git is properly installed
 
-<2> git config --global user.name "user_name" -->
---> To set user name (this info is important for version control systems)
+<02> git config --global user.name "user_name" -->
+---> To set user name (this info is important for version control systems)
 
-<3> git config --global user.email "user_email_id" -->
---> To set user email id (this info is important for version control systems)
+<03> git config --global user.email "user_email_id" -->
+---> To set user email id (this info is important for version control systems)
 
-<4> git init -->
---> To initialize empty git repository in directory (folder)
+<04> git init -->
+---> To initialize empty git repository in directory (folder)
 
-<5> git status -->
---> To check the status of repository
+<05> git status -->
+---> To check the status of repository
 
-<6> git add file_name / git add . -->
---> To add all files in the current directory to the Staging Environment
+<06> git add file_name -->
+---> To add single spceific file in the current directory to the Staging Environment
 
+<07> git add . -->
+---> To add all files in the current directory to the Staging Environment
+
+<08> git commit -m "our_message" -->
+---> To create a information of the staged changes along a timeline of a Git projects history
+---> That message should be meaningful
+
+<09> git log -->
+---> To check the history of commits for a repository
+
+<10> git branch branch_name -->
+---> To create new branch 
+
+<11> git branch -->
+---> To check all branches
+---> asterisk (*) symbol represents the active branch
+
+<12> git checkout branch_name -->
+---> To switch branches 
+
+<13> git checkout hash_code -->
+---> To take your repository till that hash commit
+---> To check the changes that you have done till that search commit
+
+<14> git checkout -b branch_name -->
+---> To create new branch and checkout in that newly created branch at the time of creation
+
+<15> 
