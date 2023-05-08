@@ -44,4 +44,32 @@
 <14> git checkout -b branch_name -->
 ---> To create new branch and checkout in that newly created branch at the time of creation
 
-<15> 
+<15> git merge branch_name -->
+---> To merge the branches 
+---> This command merges the specified branch’s history into the current branch
+
+<16> git branch -D branch_name -->
+---> To delete the branch
+
+<17> git clone repository_url -->
+---> To clone the existing remote repository to local repository
+
+<18> git diff file_name -->
+---> To check the changes that we made in the specific file
+
+<19> git show commit_id -->
+---> To show the changes that we made till that specific commit
+
+<20> git reset --hard -->
+---> To reset previous commit completly (commit and changes both)
+---> It will remove previous commit and changes as well
+
+<21> git reset --soft -->
+---> To reset previous commit (only commit)
+---> It will remove previous commit but not changes
+
+<22> git remote add origin remote_repo_url -->
+---> To connect local repository to remote repository
+
+<23> git branch -M modified_branch_name -->
+---> To modify current branch name

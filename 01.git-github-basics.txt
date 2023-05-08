@@ -54,3 +54,7 @@ Git Branch :-
 - When the work is complete, a branch can be merged with the main project
 - You can even switch between branches and work on different projects without them interfering with each other
 
+Git Branch Merge :- 
+- It joins two or more development history together
+- The git merge command facilitates you to take the data created by git branch and integrate them into a single branch
+
