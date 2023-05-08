@@ -73,3 +73,9 @@
 
 <23> git branch -M modified_branch_name -->
 ---> To modify current branch name
+
+<24> git push origin branch_name -->
+---> To add your local repository into remote repository
+
+<25> git pull origin branch_name -->
+---> To add your remote repository into local repository
