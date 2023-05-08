@@ -58,3 +58,6 @@ Git Branch Merge :-
 - It joins two or more development history together
 - The git merge command facilitates you to take the data created by git branch and integrate them into a single branch
 
+Git Ignore :- 
+- When sharing your code with others, there are often files or parts of your project, you do not want to share
+- Git can specify which files or parts of your project should be ignored by Git using a .gitignore file
