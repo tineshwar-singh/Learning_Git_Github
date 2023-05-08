@@ -3,7 +3,7 @@ Learning Git - Github with complete notes
 
 Added Git and Github Notes
 
-##<01> git --version -->
+## <01> git --version -->
 *---> To check the version of git 
 *---> To check if Git is properly installed
 
