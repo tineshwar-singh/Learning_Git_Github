@@ -4,8 +4,8 @@ Learning Git - Github with complete notes
 Added Git and Github Notes
 
 ### <01> git --version -->
-*---> To check the version of git 
-*---> To check if Git is properly installed
+* ---> To check the version of git 
+* ---> To check if Git is properly installed
 
 <02> git config --global user.name "user_name" -->
 ---> To set user name (this info is important for version control systems)
